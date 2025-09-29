@@ -1,0 +1,1264 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.5.7)  13 SEP 2025 22:28
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**c:/Users/ROG/Desktop/data_struct_course_desgin/report/main.tex
+(c:/Users/ROG/Desktop/data_struct_course_desgin/report/main.tex
+LaTeX2e <2024-11-01> patch level 2
+L3 programming layer <2025-01-18>
+(g:/texlive/2025/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2024/06/29 v1.4n Standard LaTeX document class
+(g:/texlive/2025/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2024/06/29 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count196
+\c@section=\count197
+\c@subsection=\count198
+\c@subsubsection=\count199
+\c@paragraph=\count266
+\c@subparagraph=\count267
+\c@figure=\count268
+\c@table=\count269
+\abovecaptionskip=\skip49
+\belowcaptionskip=\skip50
+\bibindent=\dimen141
+) (g:/texlive/2025/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+ (g:/texlive/2025/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks17
+) (g:/texlive/2025/texmf-dist/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+ (g:/texlive/2025/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2024/12/12 v1.0g TeX engine tests
+))
+\Gm@cnth=\count270
+\Gm@cntv=\count271
+\c@Gm@tempcnt=\count272
+\Gm@bindingoffset=\dimen142
+\Gm@wd@mp=\dimen143
+\Gm@odd@mp=\dimen144
+\Gm@even@mp=\dimen145
+\Gm@layoutwidth=\dimen146
+\Gm@layoutheight=\dimen147
+\Gm@layouthoffset=\dimen148
+\Gm@layoutvoffset=\dimen149
+\Gm@dimlist=\toks18
+) (g:/texlive/2025/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+ (g:/texlive/2025/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2024/08/06 v1.4g Standard LaTeX Graphics (DPC,SPQR)
+ (g:/texlive/2025/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2023/12/02 v1.11 sin cos tan (DPC)
+) (g:/texlive/2025/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 106.
+ (g:/texlive/2025/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2024/04/13 v1.2c Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen150
+\Gin@req@width=\dimen151
+) (g:/texlive/2025/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+Package: fancyhdr 2025/02/07 v5.2 Extensive control of page headers and footers
+\f@nch@headwidth=\skip51
+\f@nch@offset@elh=\skip52
+\f@nch@offset@erh=\skip53
+\f@nch@offset@olh=\skip54
+\f@nch@offset@orh=\skip55
+\f@nch@offset@elf=\skip56
+\f@nch@offset@erf=\skip57
+\f@nch@offset@olf=\skip58
+\f@nch@offset@orf=\skip59
+\f@nch@height=\skip60
+\f@nch@footalignment=\skip61
+\f@nch@widthL=\skip62
+\f@nch@widthC=\skip63
+\f@nch@widthR=\skip64
+\@temptokenb=\toks19
+) (g:/texlive/2025/texmf-dist/tex/latex/titlesec/titlesec.sty
+Package: titlesec 2025/01/04 v2.17 Sectioning titles
+\ttl@box=\box52
+\beforetitleunit=\skip65
+\aftertitleunit=\skip66
+\ttl@plus=\dimen152
+\ttl@minus=\dimen153
+\ttl@toksa=\toks20
+\titlewidth=\dimen154
+\titlewidthlast=\dimen155
+\titlewidthfirst=\dimen156
+) (g:/texlive/2025/texmf-dist/tex/latex/titlesec/titletoc.sty
+Package: titletoc 2025/01/04 v2.17 TOC entries
+\ttl@leftsep=\dimen157
+) (g:/texlive/2025/texmf-dist/tex/latex/ctex/ctex.sty (g:/texlive/2025/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2025-01-18 L3 programming layer (loader) 
+ (g:/texlive/2025/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2024-05-08 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count273
+\l__pdf_internal_box=\box53
+))
+Package: ctex 2022/07/14 v2.5.10 Chinese adapter in LaTeX (CTEX)
+ (g:/texlive/2025/texmf-dist/tex/latex/ctex/ctexhook.sty
+Package: ctexhook 2022/07/14 v2.5.10 Document and package hooks (CTEX)
+) (g:/texlive/2025/texmf-dist/tex/latex/ctex/ctexpatch.sty
+Package: ctexpatch 2022/07/14 v2.5.10 Patching commands (CTEX)
+) (g:/texlive/2025/texmf-dist/tex/latex/base/fix-cm.sty
+Package: fix-cm 2020/11/24 v1.1t fixes to LaTeX
+ (g:/texlive/2025/texmf-dist/tex/latex/base/ts1enc.def
+File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding TS1 on input line 47.
+))
+\l__ctex_tmp_int=\count274
+\l__ctex_tmp_box=\box54
+\l__ctex_tmp_dim=\dimen158
+\g__ctex_section_depth_int=\count275
+\g__ctex_font_size_int=\count276
+ (g:/texlive/2025/texmf-dist/tex/latex/ctex/config/ctexopts.cfg
+File: ctexopts.cfg 2022/07/14 v2.5.10 Option configuration file (CTEX)
+)
+
+Package ctex Warning: UTF8 will be used as the default encoding.
+
+(g:/texlive/2025/texmf-dist/tex/latex/ctex/engine/ctex-engine-pdftex.def
+File: ctex-engine-pdftex.def 2022/07/14 v2.5.10 (pdf)LaTeX adapter (CTEX)
+ (g:/texlive/2025/texmf-dist/tex/latex/cjk/texinput/CJKutf8.sty
+Package: CJKutf8 2021/10/16 4.8.5
+ (g:/texlive/2025/texmf-dist/tex/generic/iftex/ifpdf.sty
+Package: ifpdf 2019/10/25 v3.4 ifpdf legacy package. Use iftex instead.
+) (g:/texlive/2025/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2024/02/08 v1.3d Input encoding file
+\inpenc@prehook=\toks21
+\inpenc@posthook=\toks22
+) (g:/texlive/2025/texmf-dist/tex/latex/cjk/texinput/CJK.sty
+Package: CJK 2021/10/16 4.8.5
+ (g:/texlive/2025/texmf-dist/tex/latex/cjk/texinput/mule/MULEenc.sty
+Package: MULEenc 2021/10/16 4.8.5
+) (g:/texlive/2025/texmf-dist/tex/latex/cjk/texinput/CJK.enc
+File: CJK.enc 2021/10/16 4.8.5
+Now handling font encoding C00 ...
+... no UTF-8 mapping file for font encoding C00
+Now handling font encoding C05 ...
+... no UTF-8 mapping file for font encoding C05
+Now handling font encoding C09 ...
+... no UTF-8 mapping file for font encoding C09
+Now handling font encoding C10 ...
+... no UTF-8 mapping file for font encoding C10
+Now handling font encoding C20 ...
+... no UTF-8 mapping file for font encoding C20
+Now handling font encoding C19 ...
+... no UTF-8 mapping file for font encoding C19
+Now handling font encoding C40 ...
+... no UTF-8 mapping file for font encoding C40
+Now handling font encoding C42 ...
+... no UTF-8 mapping file for font encoding C42
+Now handling font encoding C43 ...
+... no UTF-8 mapping file for font encoding C43
+Now handling font encoding C50 ...
+... no UTF-8 mapping file for font encoding C50
+Now handling font encoding C52 ...
+... no UTF-8 mapping file for font encoding C52
+Now handling font encoding C49 ...
+... no UTF-8 mapping file for font encoding C49
+Now handling font encoding C60 ...
+... no UTF-8 mapping file for font encoding C60
+Now handling font encoding C61 ...
+... no UTF-8 mapping file for font encoding C61
+Now handling font encoding C63 ...
+... no UTF-8 mapping file for font encoding C63
+Now handling font encoding C64 ...
+... no UTF-8 mapping file for font encoding C64
+Now handling font encoding C65 ...
+... no UTF-8 mapping file for font encoding C65
+Now handling font encoding C70 ...
+... no UTF-8 mapping file for font encoding C70
+Now handling font encoding C31 ...
+... no UTF-8 mapping file for font encoding C31
+Now handling font encoding C32 ...
+... no UTF-8 mapping file for font encoding C32
+Now handling font encoding C33 ...
+... no UTF-8 mapping file for font encoding C33
+Now handling font encoding C34 ...
+... no UTF-8 mapping file for font encoding C34
+Now handling font encoding C35 ...
+... no UTF-8 mapping file for font encoding C35
+Now handling font encoding C36 ...
+... no UTF-8 mapping file for font encoding C36
+Now handling font encoding C37 ...
+... no UTF-8 mapping file for font encoding C37
+Now handling font encoding C80 ...
+... no UTF-8 mapping file for font encoding C80
+Now handling font encoding C81 ...
+... no UTF-8 mapping file for font encoding C81
+Now handling font encoding C01 ...
+... no UTF-8 mapping file for font encoding C01
+Now handling font encoding C11 ...
+... no UTF-8 mapping file for font encoding C11
+Now handling font encoding C21 ...
+... no UTF-8 mapping file for font encoding C21
+Now handling font encoding C41 ...
+... no UTF-8 mapping file for font encoding C41
+Now handling font encoding C62 ...
+... no UTF-8 mapping file for font encoding C62
+)
+\CJK@indent=\box55
+) (g:/texlive/2025/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+)) (g:/texlive/2025/texmf-dist/tex/latex/cjkpunct/CJKpunct.sty
+Package: CJKpunct 2016/05/14 4.8.4
+\CJKpunct@cnta=\count277
+\CJKpunct@cntb=\count278
+\CJKpunct@cntc=\count279
+\CJKpunct@cntd=\count280
+\CJKpunct@cnte=\count281
+   defining Unicode char U+2018 (decimal 8216)
+   defining Unicode char U+2019 (decimal 8217)
+   defining Unicode char U+201C (decimal 8220)
+   defining Unicode char U+201D (decimal 8221)
+   defining Unicode char U+2014 (decimal 8212)
+   defining Unicode char U+2026 (decimal 8230)
+ (g:/texlive/2025/texmf-dist/tex/latex/cjkpunct/CJKpunct.spa)) (g:/texlive/2025/texmf-dist/tex/latex/cjk/texinput/CJKspace.sty
+Package: CJKspace 2021/10/16 3.8.0
+) (g:/texlive/2025/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.bdg
+File: UTF8.bdg 2021/10/16 4.8.5
+) (g:/texlive/2025/texmf-dist/tex/latex/ctex/ctexspa.def
+File: ctexspa.def 2022/07/14 v2.5.10 Space info for CJKpunct (CTEX)
+)
+\ccwd=\dimen159
+\l__ctex_ccglue_skip=\skip67
+)
+\l__ctex_ziju_dim=\dimen160
+ (g:/texlive/2025/texmf-dist/tex/latex/zhnumber/zhnumber.sty
+Package: zhnumber 2022/07/14 v3.0 Typesetting numbers with Chinese glyphs
+\l__zhnum_scale_int=\count282
+\l__zhnum_tmp_int=\count283
+ (g:/texlive/2025/texmf-dist/tex/latex/zhnumber/zhnumber-utf8.cfg
+File: zhnumber-utf8.cfg 2022/07/14 v3.0 Chinese numerals with UTF8 encoding
+)) (g:/texlive/2025/texmf-dist/tex/latex/ctex/scheme/ctex-scheme-chinese.def
+File: ctex-scheme-chinese.def 2022/07/14 v2.5.10 Chinese scheme for generic (CTEX)
+ (g:/texlive/2025/texmf-dist/tex/latex/ctex/config/ctex-name-utf8.cfg
+File: ctex-name-utf8.cfg 2022/07/14 v2.5.10 Caption with encoding UTF-8 (CTEX)
+)) (g:/texlive/2025/texmf-dist/tex/latex/tools/indentfirst.sty
+Package: indentfirst 2023/07/02 v1.03 Indent first paragraph (DPC)
+) (g:/texlive/2025/texmf-dist/tex/latex/ctex/fontset/ctex-fontset-windows.def
+File: ctex-fontset-windows.def 2022/07/14 v2.5.10 Windows fonts definition (CTEX)
+)) (g:/texlive/2025/texmf-dist/tex/latex/ctex/config/ctex.cfg
+File: ctex.cfg 2022/07/14 v2.5.10 Configuration file (CTEX)
+) (g:/texlive/2025/texmf-dist/tex/latex/tocloft/tocloft.sty
+Package: tocloft 2017/08/31 v2.3i parameterised ToC, etc., typesetting
+Package tocloft Info: The document has section divisions on input line 51.
+\cftparskip=\skip68
+\cftbeforetoctitleskip=\skip69
+\cftaftertoctitleskip=\skip70
+\cftbeforepartskip=\skip71
+\cftpartnumwidth=\skip72
+\cftpartindent=\skip73
+\cftbeforesecskip=\skip74
+\cftsecindent=\skip75
+\cftsecnumwidth=\skip76
+\cftbeforesubsecskip=\skip77
+\cftsubsecindent=\skip78
+\cftsubsecnumwidth=\skip79
+\cftbeforesubsubsecskip=\skip80
+\cftsubsubsecindent=\skip81
+\cftsubsubsecnumwidth=\skip82
+\cftbeforeparaskip=\skip83
+\cftparaindent=\skip84
+\cftparanumwidth=\skip85
+\cftbeforesubparaskip=\skip86
+\cftsubparaindent=\skip87
+\cftsubparanumwidth=\skip88
+\cftbeforeloftitleskip=\skip89
+\cftafterloftitleskip=\skip90
+\cftbeforefigskip=\skip91
+\cftfigindent=\skip92
+\cftfignumwidth=\skip93
+\c@lofdepth=\count284
+\c@lotdepth=\count285
+\cftbeforelottitleskip=\skip94
+\cftafterlottitleskip=\skip95
+\cftbeforetabskip=\skip96
+\cfttabindent=\skip97
+\cfttabnumwidth=\skip98
+) (g:/texlive/2025/texmf-dist/tex/latex/setspace/setspace.sty
+Package: setspace 2022/12/04 v6.7b set line spacing
+) (g:/texlive/2025/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count286
+\float@exts=\toks23
+\float@box=\box56
+\@float@everytoks=\toks24
+\@floatcapt=\box57
+) (g:/texlive/2025/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2024/11/05 v2.17t AMS math features
+\@mathmargin=\skip99
+
+For additional information on amsmath, use the `?' option.
+(g:/texlive/2025/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2021/08/26 v2.01 AMS text
+ (g:/texlive/2025/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks25
+\ex@=\dimen161
+)) (g:/texlive/2025/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen162
+) (g:/texlive/2025/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2022/04/08 v2.04 operator names
+)
+\inf@bad=\count287
+LaTeX Info: Redefining \frac on input line 233.
+\uproot@=\count288
+\leftroot@=\count289
+LaTeX Info: Redefining \overline on input line 398.
+LaTeX Info: Redefining \colon on input line 409.
+\classnum@=\count290
+\DOTSCASE@=\count291
+LaTeX Info: Redefining \ldots on input line 495.
+LaTeX Info: Redefining \dots on input line 498.
+LaTeX Info: Redefining \cdots on input line 619.
+\Mathstrutbox@=\box58
+\strutbox@=\box59
+LaTeX Info: Redefining \big on input line 721.
+LaTeX Info: Redefining \Big on input line 722.
+LaTeX Info: Redefining \bigg on input line 723.
+LaTeX Info: Redefining \Bigg on input line 724.
+\big@size=\dimen163
+LaTeX Font Info:    Redeclaring font encoding OML on input line 742.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 743.
+\macc@depth=\count292
+LaTeX Info: Redefining \bmod on input line 904.
+LaTeX Info: Redefining \pmod on input line 909.
+LaTeX Info: Redefining \smash on input line 939.
+LaTeX Info: Redefining \relbar on input line 969.
+LaTeX Info: Redefining \Relbar on input line 970.
+\c@MaxMatrixCols=\count293
+\dotsspace@=\muskip17
+\c@parentequation=\count294
+\dspbrk@lvl=\count295
+\tag@help=\toks26
+\row@=\count296
+\column@=\count297
+\maxfields@=\count298
+\andhelp@=\toks27
+\eqnshift@=\dimen164
+\alignsep@=\dimen165
+\tagshift@=\dimen166
+\tagwidth@=\dimen167
+\totwidth@=\dimen168
+\lineht@=\dimen169
+\@envbody=\toks28
+\multlinegap=\skip100
+\multlinetaggap=\skip101
+\mathdisplay@stack=\toks29
+LaTeX Info: Redefining \[ on input line 2953.
+LaTeX Info: Redefining \] on input line 2954.
+) (g:/texlive/2025/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.enc
+File: UTF8.enc 2021/10/16 4.8.5
+) (g:/texlive/2025/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.chr
+File: UTF8.chr 2021/10/16 4.8.5
+) (./main.aux)
+\openout1 = `main.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for C00/song/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for C05/song/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for C09/song/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for C10/song/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for C20/song/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for C19/song/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for C40/song/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for C42/song/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for C43/song/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for C50/song/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for C52/song/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for C49/song/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for C60/mj/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for C61/mj/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for C63/mj/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for C64/mj/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for C65/mj/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for C70/song/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for C31/song/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for C32/song/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for C33/song/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for C34/song/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for C35/song/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for C36/song/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for C37/song/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for C80/song/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for C81/song/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for C01/song/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for C11/song/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for C21/song/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for C41/song/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for C62/song/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: includehead includefoot 
+* h-part:(L,W,R)=(71.13188pt, 455.24411pt, 71.13188pt)
+* v-part:(T,H,B)=(28.45274pt, 731.23584pt, 85.35826pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=455.24411pt
+* \textheight=664.23584pt
+* \oddsidemargin=-1.1381pt
+* \evensidemargin=-1.1381pt
+* \topmargin=-43.81725pt
+* \headheight=76.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=35.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+(g:/texlive/2025/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count299
+\scratchdimen=\dimen170
+\scratchbox=\box60
+\nofMPsegments=\count300
+\nofMParguments=\count301
+\everyMPshowfont=\toks30
+\MPscratchCnt=\count302
+\MPscratchDim=\dimen171
+\MPnumerator=\count303
+\makeMPintoPDFobject=\count304
+\everyMPtoPDFconversion=\toks31
+) (g:/texlive/2025/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+ (g:/texlive/2025/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+) (g:/texlive/2025/texmf-dist/tex/latex/grfext/grfext.sty
+Package: grfext 2019/12/03 v1.3 Manage graphics extensions (HO)
+ (g:/texlive/2025/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)) (g:/texlive/2025/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
+ (g:/texlive/2025/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
+) (g:/texlive/2025/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
+)) (g:/texlive/2025/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 504.
+ (g:/texlive/2025/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
+))
+<logo1.png, id=1, 639.89063pt x 351.3125pt>
+File: logo1.png Graphic file (type png)
+<use logo1.png>
+Package pdftex.def Info: logo1.png  used on input line 50.
+(pdftex.def)             Requested size: 432.48051pt x 237.44197pt.
+LaTeX Font Info:    Trying to load font information for C70+rm on input line 52.
+ (g:/texlive/2025/texmf-dist/tex/latex/ctex/fd/c70rm.fd
+File: c70rm.fd 2022/07/14 v2.5.10 Chinese font definition (CTEX)
+)
+
+(g:/texlive/2025/texmf-dist/tex/generic/ctex/zhmap/ctex-zhmap-windows.tex
+File: ctex-zhmap-windows.tex 2022/07/14 v2.5.10 Windows font map loader for pdfTeX and DVIPDFMx (CTEX)
+{g:/texlive/2025/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{UGBK.sfd}{Unicode.sfd}) [1
+
+ <./logo1.png>] (./main.toc
+Package CJKpunct Info: use punctuation spaces for family 'rm' with punctstyle (quanjiao) on input line 1.
+)
+\tf@toc=\write3
+\openout3 = `main.toc'.
+
+
+
+[1]
+<pt1-1.png, id=115, 1207.51125pt x 938.75719pt>
+File: pt1-1.png Graphic file (type png)
+<use pt1-1.png>
+Package pdftex.def Info: pt1-1.png  used on input line 87.
+(pdftex.def)             Requested size: 227.62206pt x 176.94762pt.
+<pt1-2.png, id=119, 1207.51125pt x 965.85844pt>
+File: pt1-2.png Graphic file (type png)
+<use pt1-2.png>
+Package pdftex.def Info: pt1-2.png  used on input line 93.
+(pdftex.def)             Requested size: 227.62206pt x 182.05597pt.
+
+
+<logo2.png, id=120, 1900.00162pt x 994.68387pt>
+File: logo2.png Graphic file (type png)
+<use logo2.png>
+Package pdftex.def Info: logo2.png  used on input line 96.
+(pdftex.def)             Requested size: 136.57462pt x 71.48665pt.
+[2 <./logo2.png> <./pt1-1.png (PNG copy)>]
+<pt1-3.png, id=149, 1207.51125pt x 937.25156pt>
+File: pt1-3.png Graphic file (type png)
+<use pt1-3.png>
+Package pdftex.def Info: pt1-3.png  used on input line 99.
+(pdftex.def)             Requested size: 227.62206pt x 176.66382pt.
+
+
+File: logo2.png Graphic file (type png)
+<use logo2.png>
+Package pdftex.def Info: logo2.png  used on input line 105.
+(pdftex.def)             Requested size: 136.57462pt x 71.48665pt.
+[3 <./pt1-2.png (PNG copy)> <./pt1-3.png (PNG copy)>]
+
+File: logo2.png Graphic file (type png)
+<use logo2.png>
+Package pdftex.def Info: logo2.png  used on input line 131.
+(pdftex.def)             Requested size: 136.57462pt x 71.48665pt.
+[4]
+
+File: logo2.png Graphic file (type png)
+<use logo2.png>
+Package pdftex.def Info: logo2.png  used on input line 166.
+(pdftex.def)             Requested size: 136.57462pt x 71.48665pt.
+[5]
+Overfull \hbox (27.05246pt too wide) in paragraph at lines 172--173
+[]\C70/rm/m/n/12/57 (\OT1/cmr/m/n/12 bind[]signals\C70/rm/m/n/12/51 ˝ \C70/rm/m/n/12/65 p \C70/rm/m/n/12/4e -|\C70/rm/m/n/12/ff ^^L| \C70/rm/m/n/12/5c ^^F \C70/rm/m/n/12/4e 	 * \C70/rm/m/n/12/90 M \C70/rm/m/n/12/53 Ü \C70/rm/m/n/12/63 	 \C70/rm/m/n/12/94 Æ \C70/rm/m/n/12/76 Ñ\OT1/cmr/m/n/12 clicked\C70/rm/m/n/12/4f · \C70/rm/m/n/12/53 ˜ \C70/rm/m/n/12/52 ^^F + \C70/rm/m/n/12/4e ^^N\OT1/cmr/m/n/12 on[]pre[]order|\C70/rm/m/n/12/30 ^^A| \OT1/cmr/m/n/12 on[]mid[]order|\C70/rm/m/n/12/30 ^^A|
+ []
+
+
+Overfull \hbox (1.3058pt too wide) in paragraph at lines 196--197
+[]\OT1/cmr/m/n/12 mid[]order[]threading|\C70/rm/m/n/12/ff ^^Z| \C70/rm/m/n/12/90 ^^R \C70/rm/m/n/12/5f R \C70/rm/m/n/12/90 M \C70/rm/m/n/12/53 Ü \C70/rm/m/n/12/5d Ê \C70/rm/m/n/12/5b P \C70/rm/m/n/12/68 ^^Q\TS1/cmr/m/n/12 ^^Y\C70/rm/m/n/12/59 ^^D \C70/rm/m/n/12/74 ^^F \C70/rm/m/n/12/5f S \C70/rm/m/n/12/52 M \C70/rm/m/n/12/82 Ç \C70/rm/m/n/12/70 π \C70/rm/m/n/12/7e ø \C70/rm/m/n/12/7d " |\C70/rm/m/n/12/ff ^^H|\C70/rm/m/n/12/5d Ê \C70/rm/m/n/12/7a z \C70/rm/m/n/12/52 ^^Y \C70/rm/m/n/12/63 ^^G \C70/rm/m/n/12/54 ^^Q\OT1/cmr/m/n/12 pre|\C70/rm/m/n/12/ff ^^L| \OT1/cmr/m/n/12 pre\C70/rm/m/n/12/53 Û
+ []
+
+
+
+File: logo2.png Graphic file (type png)
+<use logo2.png>
+Package pdftex.def Info: logo2.png  used on input line 198.
+(pdftex.def)             Requested size: 136.57462pt x 71.48665pt.
+[6{g:/texlive/2025/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}]
+Overfull \hbox (26.13936pt too wide) in paragraph at lines 223--224
+[]\C70/rm/m/n/12/90 ^^Z \C70/rm/m/n/12/8f «\OT1/cmr/m/n/12 Node\C70/rm/m/n/12/7c { \C70/rm/m/n/12/5b ö \C70/rm/m/n/12/4e I å \C70/rm/m/n/12/53 … \C70/rm/m/n/12/68 ^^Q \C70/rm/m/n/12/76 Ñ \C70/rm/m/n/12/57 ˙ \C70/rm/m/n/12/78 @ \C70/rm/m/n/12/65 p \C70/rm/m/n/12/63 n \C70/rm/m/n/12/53 U \C70/rm/m/n/12/51 C|\C70/rm/m/n/12/ff ^^L| \C70/rm/m/n/12/53 ^^E \C70/rm/m/n/12/54 +\OT1/cmr/m/n/12 data |\C70/rm/m/n/12/ff ^^H|\C70/rm/m/n/12/5b X \C70/rm/m/n/12/50 ® \C70/rm/m/n/12/82 Ç \C70/rm/m/n/12/70 π \C70/rm/m/n/12/50 <|\C70/rm/m/n/12/ff 	||\C70/rm/m/n/12/30 ^^A| \OT1/cmr/m/n/12 left[]child/right[]child
+ []
+
+
+
+File: logo2.png Graphic file (type png)
+<use logo2.png>
+Package pdftex.def Info: logo2.png  used on input line 227.
+(pdftex.def)             Requested size: 136.57462pt x 71.48665pt.
+[7]
+Overfull \hbox (49.2787pt too wide) in paragraph at lines 231--232
+[]\C70/rm/m/n/12/80 ^^C \C70/rm/m/n/12/86 Q \C70/rm/m/n/12/52 0 \C70/rm/m/n/12/7e ø \C70/rm/m/n/12/7d " \C70/rm/m/n/12/53 ^^V \C70/rm/m/n/12/4f ^^Z \C70/rm/m/n/12/65 9 \C70/rm/m/n/12/53 ÿ \C70/rm/m/n/12/82 Ç \C70/rm/m/n/12/70 π \C70/rm/m/n/12/63 ^^G \C70/rm/m/n/12/94 à \C70/rm/m/n/12/76 Ñ \C70/rm/m/n/12/75 ( \C70/rm/m/n/12/90 ^^T|\C70/rm/m/n/12/ff ^^L| \C70/rm/m/n/12/57 ( \C70/rm/m/n/12/62 g \C70/rm/m/n/12/88 L \C70/rm/m/n/12/90 M \C70/rm/m/n/12/53 Ü \C70/rm/m/n/12/64 Õ \C70/rm/m/n/12/4f \ \C70/rm/m/n/12/52 M|\C70/rm/m/n/12/ff ^^L| \C70/rm/m/n/12/62 ^^Q \C70/rm/m/n/12/4e ^^S \C70/rm/m/n/12/95 Ë \C70/rm/m/n/12/8b æ ° \C70/rm/m/n/12/4e Ü\OT1/cmr/m/n/12 reset[]thread[]tags\C70/rm/m/n/12/51 ˝
+ []
+
+
+
+File: logo2.png Graphic file (type png)
+<use logo2.png>
+Package pdftex.def Info: logo2.png  used on input line 255.
+(pdftex.def)             Requested size: 136.57462pt x 71.48665pt.
+[8]
+
+File: logo2.png Graphic file (type png)
+<use logo2.png>
+Package pdftex.def Info: logo2.png  used on input line 275.
+(pdftex.def)             Requested size: 136.57462pt x 71.48665pt.
+[9]
+
+File: logo2.png Graphic file (type png)
+<use logo2.png>
+Package pdftex.def Info: logo2.png  used on input line 344.
+(pdftex.def)             Requested size: 136.57462pt x 71.48665pt.
+[10]
+
+File: logo2.png Graphic file (type png)
+<use logo2.png>
+Package pdftex.def Info: logo2.png  used on input line 344.
+(pdftex.def)             Requested size: 136.57462pt x 71.48665pt.
+[11]
+Overfull \hbox (32.58113pt too wide) in paragraph at lines 344--344
+[]    \OT1/cmtt/m/n/12 return count_leaf_node(node.left_child) + count_leaf_node(node.right_child)[] 
+ []
+
+
+
+File: logo2.png Graphic file (type png)
+<use logo2.png>
+Package pdftex.def Info: logo2.png  used on input line 379.
+(pdftex.def)             Requested size: 136.57462pt x 71.48665pt.
+[12]
+Overfull \hbox (12.89803pt too wide) in paragraph at lines 384--385
+[]\C70/rm/m/n/12/91 « \C70/rm/m/n/12/75 ( \C70/rm/m/n/12/94 ˛ \C70/rm/m/n/12/5f ^^O \C70/rm/m/n/12/5b X \C70/rm/m/n/12/50 ® \C70/rm/m/n/12/76 Ñ \C70/rm/m/n/12/68 8 \C70/rm/m/n/12/5f √ \C70/rm/m/n/12/66 / \C70/rm/m/n/12/5c ^^F \C70/rm/m/n/12/6b œ \C70/rm/m/n/12/4e ^^@ * \C70/rm/m/n/12/82 Ç \C70/rm/m/n/12/70 π \C70/rm/m/n/12/4f \ \C70/rm/m/n/12/4e : \C70/rm/m/n/12/72 Ï \C70/rm/m/n/12/7a À \C70/rm/m/n/12/51 Ö \C70/rm/m/n/12/5b X ˘ \C70/rm/m/n/12/8c a|\C70/rm/m/n/12/ff ^^L| \C70/rm/m/n/12/90 ^^Z \C70/rm/m/n/12/8f «\OT1/cmr/m/n/12 left[]child|\C70/rm/m/n/12/ff ^^L| \OT1/cmr/m/n/12 right[]child\C70/rm/m/n/12/5f ^^U
+ []
+
+
+
+File: logo2.png Graphic file (type png)
+<use logo2.png>
+Package pdftex.def Info: logo2.png  used on input line 422.
+(pdftex.def)             Requested size: 136.57462pt x 71.48665pt.
+[13]
+<pt1-4.png, id=251, 1198.4775pt x 758.08218pt>
+File: pt1-4.png Graphic file (type png)
+<use pt1-4.png>
+Package pdftex.def Info: pt1-4.png  used on input line 449.
+(pdftex.def)             Requested size: 227.62206pt x 143.97926pt.
+
+
+File: logo2.png Graphic file (type png)
+<use logo2.png>
+Package pdftex.def Info: logo2.png  used on input line 452.
+(pdftex.def)             Requested size: 136.57462pt x 71.48665pt.
+[14]
+<pt1-5.png, id=256, 1207.51125pt x 916.92563pt>
+File: pt1-5.png Graphic file (type png)
+<use pt1-5.png>
+Package pdftex.def Info: pt1-5.png  used on input line 459.
+(pdftex.def)             Requested size: 227.62206pt x 172.83255pt.
+<pt1-6.png, id=257, 1192.455pt x 657.2053pt>
+File: pt1-6.png Graphic file (type png)
+<use pt1-6.png>
+Package pdftex.def Info: pt1-6.png  used on input line 465.
+(pdftex.def)             Requested size: 227.62206pt x 125.45193pt.
+
+
+File: logo2.png Graphic file (type png)
+<use logo2.png>
+Package pdftex.def Info: logo2.png  used on input line 468.
+(pdftex.def)             Requested size: 136.57462pt x 71.48665pt.
+[15 <./pt1-4.png (PNG copy)> <./pt1-5.png (PNG copy)>]
+<pt1-7.png, id=261, 1194.71344pt x 934.99312pt>
+File: pt1-7.png Graphic file (type png)
+<use pt1-7.png>
+Package pdftex.def Info: pt1-7.png  used on input line 475.
+(pdftex.def)             Requested size: 227.62206pt x 178.1356pt.
+<pt1-8.png, id=262, 1199.23032pt x 932.73468pt>
+File: pt1-8.png Graphic file (type png)
+<use pt1-8.png>
+Package pdftex.def Info: pt1-8.png  used on input line 485.
+(pdftex.def)             Requested size: 227.62206pt x 177.0364pt.
+
+
+File: logo2.png Graphic file (type png)
+<use logo2.png>
+Package pdftex.def Info: logo2.png  used on input line 488.
+(pdftex.def)             Requested size: 136.57462pt x 71.48665pt.
+[16 <./pt1-6.png (PNG copy)> <./pt1-7.png (PNG copy)>]
+<pt1-9.png, id=267, 1196.97188pt x 934.99312pt>
+File: pt1-9.png Graphic file (type png)
+<use pt1-9.png>
+Package pdftex.def Info: pt1-9.png  used on input line 495.
+(pdftex.def)             Requested size: 227.62206pt x 177.7932pt.
+<pt1-10.png, id=268, 1201.48875pt x 937.25156pt>
+File: pt1-10.png Graphic file (type png)
+<use pt1-10.png>
+Package pdftex.def Info: pt1-10.png  used on input line 503.
+(pdftex.def)             Requested size: 204.85846pt x 159.8026pt.
+
+
+File: logo2.png Graphic file (type png)
+<use logo2.png>
+Package pdftex.def Info: logo2.png  used on input line 506.
+(pdftex.def)             Requested size: 136.57462pt x 71.48665pt.
+[17 <./pt1-8.png (PNG copy)> <./pt1-9.png (PNG copy)>]
+<pt1-11.png, id=272, 1202.99437pt x 934.99312pt>
+File: pt1-11.png Graphic file (type png)
+<use pt1-11.png>
+Package pdftex.def Info: pt1-11.png  used on input line 509.
+(pdftex.def)             Requested size: 204.85846pt x 159.21779pt.
+<pt1-12.png, id=273, 1230.84843pt x 930.47626pt>
+File: pt1-12.png Graphic file (type png)
+<use pt1-12.png>
+Package pdftex.def Info: pt1-12.png  used on input line 515.
+(pdftex.def)             Requested size: 204.85846pt x 154.85655pt.
+<pt1-13.png, id=274, 1200.73593pt x 928.21782pt>
+File: pt1-13.png Graphic file (type png)
+<use pt1-13.png>
+Package pdftex.def Info: pt1-13.png  used on input line 523.
+(pdftex.def)             Requested size: 227.62206pt x 175.95247pt.
+
+
+File: logo2.png Graphic file (type png)
+<use logo2.png>
+Package pdftex.def Info: logo2.png  used on input line 525.
+(pdftex.def)             Requested size: 136.57462pt x 71.48665pt.
+[18 <./pt1-10.png (PNG copy)> <./pt1-11.png (PNG copy)> <./pt1-12.png (PNG copy)>]
+
+File: logo2.png Graphic file (type png)
+<use logo2.png>
+Package pdftex.def Info: logo2.png  used on input line 542.
+(pdftex.def)             Requested size: 136.57462pt x 71.48665pt.
+[19 <./pt1-13.png (PNG copy)>]
+<pt2-1.png, id=286, 1196.97188pt x 930.47626pt>
+File: pt2-1.png Graphic file (type png)
+<use pt2-1.png>
+Package pdftex.def Info: pt2-1.png  used on input line 562.
+(pdftex.def)             Requested size: 227.62206pt x 176.9343pt.
+
+
+File: logo2.png Graphic file (type png)
+<use logo2.png>
+Package pdftex.def Info: logo2.png  used on input line 568.
+(pdftex.def)             Requested size: 136.57462pt x 71.48665pt.
+[20 <./pt2-1.png (PNG copy)>]
+<pt2-2.png, id=291, 1194.71344pt x 930.47626pt>
+File: pt2-2.png Graphic file (type png)
+<use pt2-2.png>
+Package pdftex.def Info: pt2-2.png  used on input line 578.
+(pdftex.def)             Requested size: 227.62206pt x 177.27505pt.
+
+Overfull \hbox (42.34117pt too wide) in paragraph at lines 584--585
+[]\C70/rm/m/n/12/57 ( \C70/rm/m/n/12/7e ÿ \C70/rm/m/n/12/56 ˛ \C70/rm/m/n/12/5b û \C70/rm/m/n/12/73 ∞ \C70/rm/m/n/12/65 π \C70/rm/m/n/12/97 b|\C70/rm/m/n/12/ff ^^L| \C70/rm/m/n/12/62 ^^Q \C70/rm/m/n/12/66 / \C70/rm/m/n/12/75 ( \C70/rm/m/n/12/4e Ü \C70/rm/m/n/12/7e Á \C70/rm/m/n/12/62 ^^? \C70/rm/m/n/12/81 Í\OT1/cmr/m/n/12 Qwidget\C70/rm/m/n/12/7c { \C70/rm/m/n/12/76 Ñ\OT1/cmr/m/n/12 SocialGraphWidget|\C70/rm/m/n/12/ff ^^L| \C70/rm/m/n/12/90 ^^Z \C70/rm/m/n/12/8f « \C70/rm/m/n/12/91 Õ \C70/rm/m/n/12/51 ô\OT1/cmr/m/n/12 paintEvent\C70/rm/m/n/12/65 π
+ []
+
+
+
+File: logo2.png Graphic file (type png)
+<use logo2.png>
+Package pdftex.def Info: logo2.png  used on input line 591.
+(pdftex.def)             Requested size: 136.57462pt x 71.48665pt.
+[21 <./pt2-2.png (PNG copy)>]
+<pt2-3.png, id=299, 1192.455pt x 923.70094pt>
+File: pt2-3.png Graphic file (type png)
+<use pt2-3.png>
+Package pdftex.def Info: pt2-3.png  used on input line 594.
+(pdftex.def)             Requested size: 227.62206pt x 176.32248pt.
+
+
+File: logo2.png Graphic file (type png)
+<use logo2.png>
+Package pdftex.def Info: logo2.png  used on input line 622.
+(pdftex.def)             Requested size: 136.57462pt x 71.48665pt.
+[22 <./pt2-3.png (PNG copy)>]
+Overfull \hbox (19.71193pt too wide) in paragraph at lines 626--627
+[]\C70/rm/m/n/12/80 ^^C \C70/rm/m/n/12/86 Q \C70/rm/m/n/12/52 0 \C70/rm/m/n/12/98 ò \C70/rm/m/n/12/76 Ó \C70/rm/m/n/12/89 Å \C70/rm/m/n/12/6c B \C70/rm/m/n/12/4e - \C70/rm/m/n/12/7e Ÿ \C70/rm/m/n/12/51 ˙ \C70/rm/m/n/12/76 Ñ \C70/rm/m/n/12/68 9 \C70/rm/m/n/12/63 n \C70/rm/m/n/12/51 q \C70/rm/m/n/12/54 ^^L \C70/rm/m/n/12/59 } \C70/rm/m/n/12/53 À \C70/rm/m/n/12/65 p \C70/rm/m/n/12/91 œ \C70/rm/m/n/12/8f € \C70/rm/m/n/12/88 L \C70/rm/m/n/12/63 í \C70/rm/m/n/12/5e è|\C70/rm/m/n/12/ff ^^L| \C70/rm/m/n/12/62 ^^Q \C70/rm/m/n/12/57 ( \C70/rm/m/n/12/4f ^^? \C70/rm/m/n/12/75 (\OT1/cmr/m/n/12 get[]potential[]friends\C70/rm/m/n/12/65 π
+ []
+
+<pt2-4.png, id=303, 1221.06187pt x 945.5325pt>
+File: pt2-4.png Graphic file (type png)
+<use pt2-4.png>
+Package pdftex.def Info: pt2-4.png  used on input line 636.
+(pdftex.def)             Requested size: 227.62206pt x 176.24811pt.
+
+
+File: logo2.png Graphic file (type png)
+<use logo2.png>
+Package pdftex.def Info: logo2.png  used on input line 639.
+(pdftex.def)             Requested size: 136.57462pt x 71.48665pt.
+[23]
+Overfull \hbox (16.14828pt too wide) in paragraph at lines 667--667
+[]\OT1/cmtt/m/n/10.95 len(target_user.school & group.tags) + 5 * len(target_user.workplace & group.tags)[] 
+ []
+
+
+
+File: logo2.png Graphic file (type png)
+<use logo2.png>
+Package pdftex.def Info: logo2.png  used on input line 667.
+(pdftex.def)             Requested size: 136.57462pt x 71.48665pt.
+[24 <./pt2-4.png (PNG copy)>]
+Overfull \hbox (33.39435pt too wide) in paragraph at lines 667--667
+[]\OT1/cmtt/m/n/10.95 "name":group.name, "topic":group.topic, "tag":group.tags, "match_point":match_point})[] 
+ []
+
+<pt2-5.png, id=313, 1201.48875pt x 320.69812pt>
+File: pt2-5.png Graphic file (type png)
+<use pt2-5.png>
+Package pdftex.def Info: pt2-5.png  used on input line 679.
+(pdftex.def)             Requested size: 227.62206pt x 60.75221pt.
+<pt2-6.png, id=314, 1192.455pt x 910.15031pt>
+File: pt2-6.png Graphic file (type png)
+<use pt2-6.png>
+Package pdftex.def Info: pt2-6.png  used on input line 687.
+(pdftex.def)             Requested size: 227.62206pt x 173.73584pt.
+
+
+File: logo2.png Graphic file (type png)
+<use logo2.png>
+Package pdftex.def Info: logo2.png  used on input line 690.
+(pdftex.def)             Requested size: 136.57462pt x 71.48665pt.
+[25 <./pt2-5.png (PNG copy)>]
+Overfull \hbox (55.96857pt too wide) in paragraph at lines 693--694
+\C70/rm/m/n/10.95/62 7 \C70/rm/m/n/10.95/54 å \C70/rm/m/n/10.95/7f § \C70/rm/m/n/10.95/7e ƒ \C70/rm/m/n/10.95/76 Ñ \C70/rm/m/n/10.95/75 ^^_ \C70/rm/m/n/10.95/54 } h \C70/rm/m/n/10.95/67 ^^_|\C70/rm/m/n/10.95/ff ^^L| \C70/rm/m/n/10.95/54 ^^L \C70/rm/m/n/10.95/65 ˆ \C70/rm/m/n/10.95/8b æ \C70/rm/m/n/10.95/7f n \C70/rm/m/n/10.95/76 ¯ \C70/rm/m/n/10.95/51 s ˝ \C70/rm/m/n/10.95/65 p \C70/rm/m/n/10.95/4f ^^? \C70/rm/m/n/10.95/5f ó \C70/rm/m/n/10.95/52   \C70/rm/m/n/10.95/96 d \C70/rm/m/n/10.95/75 ( \C70/rm/m/n/10.95/62 7 \C70/rm/m/n/10.95/4e K \C70/rm/m/n/10.95/54 ^^N|\C70/rm/m/n/10.95/ff ^^L| \OT1/cmr/m/n/10.95 ID\C70/rm/m/n/10.95/53 Ô \C70/rm/m/n/10.95/4e Â \C70/rm/m/n/10.95/88 ´ \C70/rm/m/n/10.95/56 ﬁ \C70/rm/m/n/10.95/65 6 \C70/rm/m/n/10.95/52 ) \C70/rm/m/n/10.95/75 (|\C70/rm/m/n/10.95/30 ^^B| \C70/rm/m/n/10.95/67 ^^@ \C70/rm/m/n/10.95/54 ^^N \C70/rm/m/n/10.95/4f ^^? \C70/rm/m/n/10.95/75 (\OT1/cmr/m/n/10.95 MainWindow\C70/rm/m/n/10.95/7c {
+ []
+
+<pt2-7.png, id=320, 1201.48875pt x 503.63156pt>
+File: pt2-7.png Graphic file (type png)
+<use pt2-7.png>
+Package pdftex.def Info: pt2-7.png  used on input line 703.
+(pdftex.def)             Requested size: 227.62206pt x 95.40665pt.
+<pt2-8.png, id=321, 1196.21906pt x 365.86688pt>
+File: pt2-8.png Graphic file (type png)
+<use pt2-8.png>
+Package pdftex.def Info: pt2-8.png  used on input line 709.
+(pdftex.def)             Requested size: 227.62206pt x 69.6159pt.
+
+
+File: logo2.png Graphic file (type png)
+<use logo2.png>
+Package pdftex.def Info: logo2.png  used on input line 712.
+(pdftex.def)             Requested size: 136.57462pt x 71.48665pt.
+[26 <./pt2-6.png (PNG copy)> <./pt2-7.png (PNG copy)>]
+Overfull \hbox (65.10602pt too wide) in paragraph at lines 715--716
+\C70/rm/m/n/10.95/53 ÷ \C70/rm/m/n/10.95/51 h \C70/rm/m/n/10.95/90 Ë \C70/rm/m/n/10.95/65 p \C70/rm/m/n/10.95/63 n|\C70/rm/m/n/10.95/30 ^^B| \C70/rm/m/n/10.95/4f ^^? \C70/rm/m/n/10.95/75 (\OT1/cmr/m/n/10.95 QListWidget\C70/rm/m/n/10.95/8f € \C70/rm/m/n/10.95/88 L \C70/rm/m/n/10.95/52 ^^W \C70/rm/m/n/10.95/88 h \C70/rm/m/n/10.95/5c U \C70/rm/m/n/10.95/79 :|\C70/rm/m/n/10.95/ff ^^L| \C70/rm/m/n/10.95/54 ^^L \C70/rm/m/n/10.95/65 ˆ \C70/rm/m/n/10.95/4e : \C70/rm/m/n/10.95/7f § \C70/rm/m/n/10.95/7e ƒ \C70/rm/m/n/10.95/98 u \C70/rm/m/n/10.95/97 b \C70/rm/m/n/10.95/53 U \C70/rm/m/n/10.95/72 Ï \C70/rm/m/n/10.95/8b æ \C70/rm/m/n/10.95/7f n \C70/rm/m/n/10.95/4e Ü ^^@ *\OT1/cmr/m/n/10.95 join[]selected[]group[]from[]all\C70/rm/m/n/10.95/51 ˝
+ []
+
+<pt2-9.png, id=326, 1192.455pt x 460.72125pt>
+File: pt2-9.png Graphic file (type png)
+<use pt2-9.png>
+Package pdftex.def Info: pt2-9.png  used on input line 725.
+(pdftex.def)             Requested size: 227.62206pt x 87.94568pt.
+
+
+File: logo2.png Graphic file (type png)
+<use logo2.png>
+Package pdftex.def Info: logo2.png  used on input line 738.
+(pdftex.def)             Requested size: 136.57462pt x 71.48665pt.
+[27 <./pt2-8.png (PNG copy)> <./pt2-9.png (PNG copy)>]
+Overfull \hbox (5.32475pt too wide) in paragraph at lines 745--746
+\C70/rm/m/n/10.95/80 ˝ \C70/rm/m/n/10.95/6a ! \C70/rm/m/n/10.95/57 W \C70/rm/m/n/10.95/62 Ω \C70/rm/m/n/10.95/8c a \C70/rm/m/n/10.95/4e : ^^M \C70/rm/m/n/10.95/54 ^^L \C70/rm/m/n/10.95/76 Ñ \C70/rm/m/n/10.95/7c {|\C70/rm/m/n/10.95/ff ^^L| \C70/rm/m/n/10.95/4e Â \C70/rm/m/n/10.95/4f ø \C70/rm/m/n/10.95/8f € \C70/rm/m/n/10.95/88 L \C70/rm/m/n/10.95/9a ÿ \C70/rm/m/n/10.95/65 H \C70/rm/m/n/10.95/76 Ñ \C70/rm/m/n/10.95/65 p \C70/rm/m/n/10.95/63 n \C70/rm/m/n/10.95/7b ° \C70/rm/m/n/10.95/74 ^^F \C70/rm/m/n/10.95/54 å \C70/rm/m/n/10.95/53 Ô \C70/rm/m/n/10.95/89 ∆ \C70/rm/m/n/10.95/53 ^^V \C70/rm/m/n/10.95/5c U \C70/rm/m/n/10.95/79 :|\C70/rm/m/n/10.95/30 ^^B| \C70/rm/m/n/10.95/54 ^^L \C70/rm/m/n/10.95/65 ˆ|\C70/rm/m/n/10.95/ff ^^L| \C70/rm/m/n/10.95/62 ^^Q \C70/rm/m/n/10.95/4e _ \C70/rm/m/n/10.95/7e Á Ì \C70/rm/m/n/10.95/6c ø \C70/rm/m/n/10.95/75 ( \C70/rm/m/n/10.95/4e Ü\OT1/cmr/m/n/10.95 MVC\C70/rm/m/n/10.95/8b æ
+ []
+
+
+
+File: logo2.png Graphic file (type png)
+<use logo2.png>
+Package pdftex.def Info: logo2.png  used on input line 774.
+(pdftex.def)             Requested size: 136.57462pt x 71.48665pt.
+[28]
+Overfull \hbox (1.97307pt too wide) in paragraph at lines 781--782
+[]\C70/rm/m/n/10.95/5b ˘ \C70/rm/m/n/10.95/4e é \C70/rm/m/n/10.95/5b W \C70/rm/m/n/10.95/51 x |\C70/rm/m/n/10.95/ff ^^H|\OT1/cmr/m/n/10.95 dictionary|\C70/rm/m/n/10.95/ff 	||^^L| \C70/rm/m/n/10.95/5f ó \C70/rm/m/n/10.95/76   \C70/rm/m/n/10.95/4e é\OT1/cmr/m/n/10.95 python\C70/rm/m/n/10.95/67 , \C70/rm/m/n/10.95/8e ´ \C70/rm/m/n/10.95/5b ˘ \C70/rm/m/n/10.95/4e é \C70/rm/m/n/10.95/5b W \C70/rm/m/n/10.95/51 x \C70/rm/m/n/10.95/76 Ñ \C70/rm/m/n/10.95/65 / \C70/rm/m/n/10.95/63 ^^A|\C70/rm/m/n/10.95/ff ^^L| \C70/rm/m/n/10.95/57 ( \C70/rm/m/n/10.95/4f ^^? \C70/rm/m/n/10.95/75 ( \C70/rm/m/n/10.95/5b W \C70/rm/m/n/10.95/51 x \C70/rm/m/n/10.95/65 ˆ \C70/rm/m/n/10.95/4e ^^M \C70/rm/m/n/10.95/97 ^^@ \C70/rm/m/n/10.95/89 Å \C70/rm/m/n/10.95/50 œ\OT1/cmr/m/n/10.95 c++\C70/rm/m/n/10.95/4e ^^@
+ []
+
+
+Overfull \hbox (15.84909pt too wide) in paragraph at lines 781--782
+\C70/rm/m/n/10.95/68 7 \C70/rm/m/n/10.95/4f ^^? \C70/rm/m/n/10.95/75 (\OT1/cmr/m/n/10.95 map\C70/rm/m/n/10.95/5b π \C70/rm/m/n/10.95/56 h|\C70/rm/m/n/10.95/ff ^^L| \C70/rm/m/n/10.95/57 (\OT1/cmr/m/n/10.95 SocialNetwork\C70/rm/m/n/10.95/7c { \C70/rm/m/n/10.95/4e - \C70/rm/m/n/10.95/4f ^^? \C70/rm/m/n/10.95/75 ( \C70/rm/m/n/10.95/5b W \C70/rm/m/n/10.95/51 x \C70/rm/m/n/10.95/5b X \C70/rm/m/n/10.95/50 ® \C70/rm/m/n/10.95/75 ( \C70/rm/m/n/10.95/62 7 \C70/rm/m/n/10.95/54 å \C70/rm/m/n/10.95/7f § \C70/rm/m/n/10.95/7e ƒ \C70/rm/m/n/10.95/4f · \C70/rm/m/n/10.95/60 o|\C70/rm/m/n/10.95/ff ^^L| \C70/rm/m/n/10.95/4e Â\OT1/cmr/m/n/10.95 ID\C70/rm/m/n/10.95/4f \ \C70/rm/m/n/10.95/4e : \C70/rm/m/n/10.95/95 .|\C70/rm/m/n/10.95/ff ^^L| \C70/rm/m/n/10.95/5b û \C70/rm/m/n/10.95/73 ∞ \C70/rm/m/n/10.95/4e Ü\OT1/cmr/m/n/10.95 O(1)\C70/rm/m/n/10.95/65 ˆ
+ []
+
+
+
+File: logo2.png Graphic file (type png)
+<use logo2.png>
+Package pdftex.def Info: logo2.png  used on input line 807.
+(pdftex.def)             Requested size: 136.57462pt x 71.48665pt.
+[29]
+LaTeX Font Info:    Trying to load font information for C70+zhfs on input line 844.
+ (g:/texlive/2025/texmf-dist/tex/latex/zhmetrics/c70zhfs.fd
+File: c70zhfs.fd 2009/09/23 4.8.2
+)
+
+File: logo2.png Graphic file (type png)
+<use logo2.png>
+Package pdftex.def Info: logo2.png  used on input line 852.
+(pdftex.def)             Requested size: 136.57462pt x 71.48665pt.
+[30]
+Overfull \hbox (33.39435pt too wide) in paragraph at lines 885--885
+[]\OT1/cmtt/m/n/10.95 return sorted(new_friends, key=lambda x: x["similarity_score"], reverse=True)[:limit][] 
+ []
+
+
+
+File: logo2.png Graphic file (type png)
+<use logo2.png>
+Package pdftex.def Info: logo2.png  used on input line 914.
+(pdftex.def)             Requested size: 136.57462pt x 71.48665pt.
+[31]
+
+File: logo2.png Graphic file (type png)
+<use logo2.png>
+Package pdftex.def Info: logo2.png  used on input line 957.
+(pdftex.def)             Requested size: 136.57462pt x 71.48665pt.
+[32]
+<pt2-10.png, id=379, 1209.76968pt x 932.73468pt>
+File: pt2-10.png Graphic file (type png)
+<use pt2-10.png>
+Package pdftex.def Info: pt2-10.png  used on input line 993.
+(pdftex.def)             Requested size: 227.62206pt x 175.48508pt.
+
+
+File: logo2.png Graphic file (type png)
+<use logo2.png>
+Package pdftex.def Info: logo2.png  used on input line 996.
+(pdftex.def)             Requested size: 136.57462pt x 71.48665pt.
+[33]
+<pt2-11.png, id=383, 1212.78094pt x 925.95938pt>
+File: pt2-11.png Graphic file (type png)
+<use pt2-11.png>
+Package pdftex.def Info: pt2-11.png  used on input line 1001.
+(pdftex.def)             Requested size: 227.62206pt x 173.7865pt.
+<pt2-12.png, id=384, 1207.51125pt x 914.66719pt>
+File: pt2-12.png Graphic file (type png)
+<use pt2-12.png>
+Package pdftex.def Info: pt2-12.png  used on input line 1009.
+(pdftex.def)             Requested size: 227.62206pt x 172.40686pt.
+
+
+File: logo2.png Graphic file (type png)
+<use logo2.png>
+Package pdftex.def Info: logo2.png  used on input line 1012.
+(pdftex.def)             Requested size: 136.57462pt x 71.48665pt.
+[34 <./pt2-10.png (PNG copy)> <./pt2-11.png (PNG copy)>]
+<pt2-13.png, id=388, 1185.67969pt x 869.49844pt>
+File: pt2-13.png Graphic file (type png)
+<use pt2-13.png>
+Package pdftex.def Info: pt2-13.png  used on input line 1017.
+(pdftex.def)             Requested size: 227.62206pt x 166.91792pt.
+<pt2-14.png, id=389, 1190.19656pt x 584.93532pt>
+File: pt2-14.png Graphic file (type png)
+<use pt2-14.png>
+Package pdftex.def Info: pt2-14.png  used on input line 1025.
+(pdftex.def)             Requested size: 227.62206pt x 111.86182pt.
+<pt2-15.png, id=390, 1194.71344pt x 481.04718pt>
+File: pt2-15.png Graphic file (type png)
+<use pt2-15.png>
+Package pdftex.def Info: pt2-15.png  used on input line 1033.
+(pdftex.def)             Requested size: 227.62206pt x 91.64948pt.
+
+
+File: logo2.png Graphic file (type png)
+<use logo2.png>
+Package pdftex.def Info: logo2.png  used on input line 1035.
+(pdftex.def)             Requested size: 136.57462pt x 71.48665pt.
+[35 <./pt2-12.png (PNG copy)> <./pt2-13.png (PNG copy)> <./pt2-14.png (PNG copy)>]
+<pt2-16.png, id=394, 1190.19656pt x 650.43pt>
+File: pt2-16.png Graphic file (type png)
+<use pt2-16.png>
+Package pdftex.def Info: pt2-16.png  used on input line 1039.
+(pdftex.def)             Requested size: 227.62206pt x 124.38689pt.
+<pt2-17.png, id=395, 1196.97188pt x 562.35094pt>
+File: pt2-17.png Graphic file (type png)
+<use pt2-17.png>
+Package pdftex.def Info: pt2-17.png  used on input line 1047.
+(pdftex.def)             Requested size: 227.62206pt x 106.9336pt.
+<pt2-18.png, id=396, 1191.7022pt x 616.55344pt>
+File: pt2-18.png Graphic file (type png)
+<use pt2-18.png>
+Package pdftex.def Info: pt2-18.png  used on input line 1053.
+(pdftex.def)             Requested size: 227.62206pt x 117.75787pt.
+
+
+File: logo2.png Graphic file (type png)
+<use logo2.png>
+Package pdftex.def Info: logo2.png  used on input line 1056.
+(pdftex.def)             Requested size: 136.57462pt x 71.48665pt.
+[36 <./pt2-15.png (PNG copy)> <./pt2-16.png (PNG copy)> <./pt2-17.png (PNG copy)>]
+<pt2-19.png, id=401, 1187.93813pt x 844.65562pt>
+File: pt2-19.png Graphic file (type png)
+<use pt2-19.png>
+Package pdftex.def Info: pt2-19.png  used on input line 1059.
+(pdftex.def)             Requested size: 227.62206pt x 161.83951pt.
+<pt2-20.png, id=402, 1199.23032pt x 593.96906pt>
+File: pt2-20.png Graphic file (type png)
+<use pt2-20.png>
+Package pdftex.def Info: pt2-20.png  used on input line 1067.
+(pdftex.def)             Requested size: 227.62206pt x 112.73747pt.
+<pt2-23.png, id=403, 1192.455pt x 560.0925pt>
+File: pt2-23.png Graphic file (type png)
+<use pt2-23.png>
+Package pdftex.def Info: pt2-23.png  used on input line 1073.
+(pdftex.def)             Requested size: 227.62206pt x 106.91435pt.
+
+
+File: logo2.png Graphic file (type png)
+<use logo2.png>
+Package pdftex.def Info: logo2.png  used on input line 1076.
+(pdftex.def)             Requested size: 136.57462pt x 71.48665pt.
+[37 <./pt2-18.png (PNG copy)> <./pt2-19.png (PNG copy)> <./pt2-20.png (PNG copy)>]
+<pt2-21.png, id=407, 1209.76968pt x 569.12625pt>
+File: pt2-21.png Graphic file (type png)
+<use pt2-21.png>
+Package pdftex.def Info: pt2-21.png  used on input line 1081.
+(pdftex.def)             Requested size: 227.62206pt x 107.07564pt.
+<pt2-22.png, id=408, 1190.19656pt x 564.60938pt>
+File: pt2-22.png Graphic file (type png)
+<use pt2-22.png>
+Package pdftex.def Info: pt2-22.png  used on input line 1087.
+(pdftex.def)             Requested size: 227.62206pt x 107.97472pt.
+<pt2-24.png, id=409, 1210.5225pt x 350.05782pt>
+File: pt2-24.png Graphic file (type png)
+<use pt2-24.png>
+Package pdftex.def Info: pt2-24.png  used on input line 1095.
+(pdftex.def)             Requested size: 227.62206pt x 65.82262pt.
+
+
+File: logo2.png Graphic file (type png)
+<use logo2.png>
+Package pdftex.def Info: logo2.png  used on input line 1098.
+(pdftex.def)             Requested size: 136.57462pt x 71.48665pt.
+[38 <./pt2-23.png (PNG copy)> <./pt2-21.png (PNG copy)> <./pt2-22.png (PNG copy)>]
+<pt2-25.png, id=413, 1187.93813pt x 573.64313pt>
+File: pt2-25.png Graphic file (type png)
+<use pt2-25.png>
+Package pdftex.def Info: pt2-25.png  used on input line 1101.
+(pdftex.def)             Requested size: 227.62206pt x 109.9124pt.
+<pt2-26.png, id=414, 1208.26407pt x 438.13687pt>
+File: pt2-26.png Graphic file (type png)
+<use pt2-26.png>
+Package pdftex.def Info: pt2-26.png  used on input line 1107.
+(pdftex.def)             Requested size: 227.62206pt x 82.53821pt.
+<pt2-27.png, id=415, 1198.4775pt x 826.58812pt>
+File: pt2-27.png Graphic file (type png)
+<use pt2-27.png>
+Package pdftex.def Info: pt2-27.png  used on input line 1113.
+(pdftex.def)             Requested size: 227.62206pt x 156.99031pt.
+<pt2-28.png, id=416, 1207.51125pt x 548.80031pt>
+File: pt2-28.png Graphic file (type png)
+<use pt2-28.png>
+Package pdftex.def Info: pt2-28.png  used on input line 1121.
+(pdftex.def)             Requested size: 227.62206pt x 103.4441pt.
+
+
+File: logo2.png Graphic file (type png)
+<use logo2.png>
+Package pdftex.def Info: logo2.png  used on input line 1124.
+(pdftex.def)             Requested size: 136.57462pt x 71.48665pt.
+[39 <./pt2-24.png (PNG copy)> <./pt2-25.png (PNG copy)> <./pt2-26.png (PNG copy)> <./pt2-27.png (PNG copy)>]
+<pt2-29.png, id=420, 1192.455pt x 813.0375pt>
+File: pt2-29.png Graphic file (type png)
+<use pt2-29.png>
+Package pdftex.def Info: pt2-29.png  used on input line 1127.
+(pdftex.def)             Requested size: 227.62206pt x 155.19827pt.
+<pt2-30.png, id=421, 1192.455pt x 476.53032pt>
+File: pt2-30.png Graphic file (type png)
+<use pt2-30.png>
+Package pdftex.def Info: pt2-30.png  used on input line 1133.
+(pdftex.def)             Requested size: 227.62206pt x 90.96342pt.
+<pt2-31.png, id=422, 1205.2528pt x 302.63063pt>
+File: pt2-31.png Graphic file (type png)
+<use pt2-31.png>
+Package pdftex.def Info: pt2-31.png  used on input line 1141.
+(pdftex.def)             Requested size: 227.62206pt x 57.15408pt.
+<pt2-32.png, id=423, 1187.93813pt x 559.33969pt>
+File: pt2-32.png Graphic file (type png)
+<use pt2-32.png>
+Package pdftex.def Info: pt2-32.png  used on input line 1147.
+(pdftex.def)             Requested size: 227.62206pt x 107.1718pt.
+
+
+File: logo2.png Graphic file (type png)
+<use logo2.png>
+Package pdftex.def Info: logo2.png  used on input line 1150.
+(pdftex.def)             Requested size: 136.57462pt x 71.48665pt.
+[40 <./pt2-28.png (PNG copy)> <./pt2-29.png (PNG copy)> <./pt2-30.png (PNG copy)> <./pt2-31.png (PNG copy)>]
+<pt2-33.png, id=427, 1206.00563pt x 442.65375pt>
+File: pt2-33.png Graphic file (type png)
+<use pt2-33.png>
+Package pdftex.def Info: pt2-33.png  used on input line 1155.
+(pdftex.def)             Requested size: 227.62206pt x 83.54446pt.
+<pt2-34.png, id=428, 1206.00563pt x 570.63188pt>
+File: pt2-34.png Graphic file (type png)
+<use pt2-34.png>
+Package pdftex.def Info: pt2-34.png  used on input line 1161.
+(pdftex.def)             Requested size: 227.62206pt x 107.69849pt.
+<pt2-35.png, id=429, 1202.99437pt x 295.85532pt>
+File: pt2-35.png Graphic file (type png)
+<use pt2-35.png>
+Package pdftex.def Info: pt2-35.png  used on input line 1169.
+(pdftex.def)             Requested size: 227.62206pt x 55.97833pt.
+<pt2-36.png, id=430, 1189.44376pt x 873.2625pt>
+File: pt2-36.png Graphic file (type png)
+<use pt2-36.png>
+Package pdftex.def Info: pt2-36.png  used on input line 1177.
+(pdftex.def)             Requested size: 227.62206pt x 167.10751pt.
+
+
+File: logo2.png Graphic file (type png)
+<use logo2.png>
+Package pdftex.def Info: logo2.png  used on input line 1180.
+(pdftex.def)             Requested size: 136.57462pt x 71.48665pt.
+[41 <./pt2-32.png (PNG copy)> <./pt2-33.png (PNG copy)> <./pt2-34.png (PNG copy)> <./pt2-35.png (PNG copy)>]
+<pt2-37.png, id=434, 1218.80344pt x 369.63094pt>
+File: pt2-37.png Graphic file (type png)
+<use pt2-37.png>
+Package pdftex.def Info: pt2-37.png  used on input line 1183.
+(pdftex.def)             Requested size: 227.62206pt x 69.02925pt.
+<pt2-38.png, id=435, 1212.02812pt x 564.60938pt>
+File: pt2-38.png Graphic file (type png)
+<use pt2-38.png>
+Package pdftex.def Info: pt2-38.png  used on input line 1191.
+(pdftex.def)             Requested size: 227.62206pt x 106.02768pt.
+<pt2-39.png, id=436, 1202.99437pt x 282.30469pt>
+File: pt2-39.png Graphic file (type png)
+<use pt2-39.png>
+Package pdftex.def Info: pt2-39.png  used on input line 1197.
+(pdftex.def)             Requested size: 227.62206pt x 53.41444pt.
+<pt2-40.png, id=437, 1190.19656pt x 316.18124pt>
+File: pt2-40.png Graphic file (type png)
+<use pt2-40.png>
+Package pdftex.def Info: pt2-40.png  used on input line 1207.
+(pdftex.def)             Requested size: 227.62206pt x 60.46584pt.
+
+
+File: logo2.png Graphic file (type png)
+<use logo2.png>
+Package pdftex.def Info: logo2.png  used on input line 1209.
+(pdftex.def)             Requested size: 136.57462pt x 71.48665pt.
+[42 <./pt2-36.png (PNG copy)> <./pt2-37.png (PNG copy)> <./pt2-38.png (PNG copy)> <./pt2-39.png (PNG copy)>]
+<pt2-41.png, id=442, 1193.96063pt x 575.90157pt>
+File: pt2-41.png Graphic file (type png)
+<use pt2-41.png>
+Package pdftex.def Info: pt2-41.png  used on input line 1215.
+(pdftex.def)             Requested size: 227.62206pt x 109.7915pt.
+<pt2-42.png, id=443, 1212.02812pt x 501.37312pt>
+File: pt2-42.png Graphic file (type png)
+<use pt2-42.png>
+Package pdftex.def Info: pt2-42.png  used on input line 1223.
+(pdftex.def)             Requested size: 227.62206pt x 94.15257pt.
+<pt2-43.png, id=444, 1207.51125pt x 909.3975pt>
+File: pt2-43.png Graphic file (type png)
+<use pt2-43.png>
+Package pdftex.def Info: pt2-43.png  used on input line 1231.
+(pdftex.def)             Requested size: 227.62206pt x 171.41357pt.
+
+
+File: logo2.png Graphic file (type png)
+<use logo2.png>
+Package pdftex.def Info: logo2.png  used on input line 1234.
+(pdftex.def)             Requested size: 136.57462pt x 71.48665pt.
+[43 <./pt2-40.png (PNG copy)> <./pt2-41.png (PNG copy)> <./pt2-42.png (PNG copy)>]
+<pt2-44.png, id=448, 1205.2528pt x 523.9575pt>
+File: pt2-44.png Graphic file (type png)
+<use pt2-44.png>
+Package pdftex.def Info: pt2-44.png  used on input line 1237.
+(pdftex.def)             Requested size: 227.62206pt x 98.95334pt.
+<pt2-45.png, id=449, 1221.06187pt x 945.5325pt>
+File: pt2-45.png Graphic file (type png)
+<use pt2-45.png>
+Package pdftex.def Info: pt2-45.png  used on input line 1245.
+(pdftex.def)             Requested size: 227.62206pt x 176.24811pt.
+<pt2-46.png, id=450, 1216.545pt x 484.81125pt>
+File: pt2-46.png Graphic file (type png)
+<use pt2-46.png>
+Package pdftex.def Info: pt2-46.png  used on input line 1251.
+(pdftex.def)             Requested size: 227.62206pt x 90.70953pt.
+
+
+File: logo2.png Graphic file (type png)
+<use logo2.png>
+Package pdftex.def Info: logo2.png  used on input line 1254.
+(pdftex.def)             Requested size: 136.57462pt x 71.48665pt.
+[44 <./pt2-43.png (PNG copy)> <./pt2-44.png (PNG copy)> <./pt2-45.png (PNG copy)>]
+<pt2-47.png, id=454, 1221.06187pt x 945.5325pt>
+File: pt2-47.png Graphic file (type png)
+<use pt2-47.png>
+Package pdftex.def Info: pt2-47.png  used on input line 1259.
+(pdftex.def)             Requested size: 227.62206pt x 176.24811pt.
+<pt2-51.png, id=455, 1221.06187pt x 571.38469pt>
+File: pt2-51.png Graphic file (type png)
+<use pt2-51.png>
+Package pdftex.def Info: pt2-51.png  used on input line 1265.
+(pdftex.def)             Requested size: 227.62206pt x 106.50662pt.
+<pt2-48.png, id=456, 1212.02812pt x 520.94624pt>
+File: pt2-48.png Graphic file (type png)
+<use pt2-48.png>
+Package pdftex.def Info: pt2-48.png  used on input line 1271.
+(pdftex.def)             Requested size: 227.62206pt x 97.8282pt.
+
+
+File: logo2.png Graphic file (type png)
+<use logo2.png>
+Package pdftex.def Info: logo2.png  used on input line 1274.
+(pdftex.def)             Requested size: 136.57462pt x 71.48665pt.
+[45 <./pt2-46.png (PNG copy)> <./pt2-47.png (PNG copy)> <./pt2-51.png (PNG copy)>]
+<pt2-49.png, id=460, 1212.02812pt x 555.57562pt>
+File: pt2-49.png Graphic file (type png)
+<use pt2-49.png>
+Package pdftex.def Info: pt2-49.png  used on input line 1277.
+(pdftex.def)             Requested size: 227.62206pt x 104.33124pt.
+<pt2-50.png, id=461, 1187.93813pt x 560.0925pt>
+File: pt2-50.png Graphic file (type png)
+<use pt2-50.png>
+Package pdftex.def Info: pt2-50.png  used on input line 1283.
+(pdftex.def)             Requested size: 227.62206pt x 107.31604pt.
+
+
+File: logo2.png Graphic file (type png)
+<use logo2.png>
+Package pdftex.def Info: logo2.png  used on input line 1296.
+(pdftex.def)             Requested size: 136.57462pt x 71.48665pt.
+[46 <./pt2-48.png (PNG copy)> <./pt2-49.png (PNG copy)> <./pt2-50.png (PNG copy)>]
+
+File: logo2.png Graphic file (type png)
+<use logo2.png>
+Package pdftex.def Info: logo2.png  used on input line 1314.
+(pdftex.def)             Requested size: 136.57462pt x 71.48665pt.
+[47] (./main.aux)
+ ***********
+LaTeX2e <2024-11-01> patch level 2
+L3 programming layer <2022/07/14>
+ ***********
+ ) 
+Here is how much of TeX's memory you used:
+ 10004 strings out of 475118
+ 175203 string characters out of 5765021
+ 555536 words of memory out of 5000000
+ 32358 multiletter control sequences out of 15000+600000
+ 656460 words of font info for 394 fonts, out of 8000000 for 9000
+ 36 hyphenation exceptions out of 8191
+ 80i,16n,83p,763b,616s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simfang.ttf><c:/Windows/Fonts/simfang.ttf><c:/Windows/Fonts/simfang.ttf><c:/Windows/Fonts/simfang.ttf><c:/Windows/Fonts/simfang.ttf><c:/Windows/Fonts/simfang.ttf><c:/Windows/Fonts/simfang.ttf><c:/Windows/Fonts/simfang.ttf><c:/Windows/Fonts/simfang.ttf><c:/Windows/Fonts/simfang.ttf><c:/Windows/Fonts/simfang.ttf><c:/Windows/Fonts/simfang.ttf><c:/Windows/Fonts/simfang.ttf><c:/Windows/Fonts/simfang.ttf><c:/Windows/Fonts/simfang.ttf><c:/Windows/Fonts/simfang.ttf><c:/Windows/Fonts/simfang.ttf><c:/Windows/Fonts/simfang.ttf><c:/Windows/Fonts/simfang.ttf><c:/Windows/Fonts/simfang.ttf><c:/Windows/Fonts/simfang.ttf><c:/Windows/Fonts/simfang.ttf><c:/Windows/Fonts/simfang.ttf><c:/Windows/Fonts/simfang.ttf><c:/Windows/Fonts/simfang.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simfang.ttf><c:/Windows/Fonts/simfang.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><g:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><g:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><g:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><g:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><g:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb><g:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb><g:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt8.pfb><g:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb>
+Output written on main.pdf (48 pages, 7413485 bytes).
+PDF statistics:
+ 993 PDF objects out of 1000 (max. 8388607)
+ 614 compressed objects within 7 object streams
+ 0 named destinations out of 1000 (max. 500000)
+ 647 words of extra memory for PDF output out of 10000 (max. 10000000)
+
